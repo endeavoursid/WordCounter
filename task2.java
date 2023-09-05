@@ -7,7 +7,6 @@ public class task2 {
 
     private static final String[] COMMON_WORDS = {
             "the", "and", "is", "of", "in", "to", "with", "for", "it", "on"
-            // Add more common words as needed
     };
 
     public task2() {
